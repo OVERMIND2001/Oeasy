@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/OVERMIND2001/Oeasy/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/OVERMIND2001/Oeasy/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<html>
+ <head>
+  <title>又是一年考核季 学分绩点断舍离</title>
+  <background="bg/1.png">
+  h1 {
+  font-color:red
+  }
+ </head>
+ <body>
+ <h1>这是我的第一个网站？？</h1>
+ <h2>免费使用的？还可以生成二维码？</h2>
+ <br>自己的电脑知识太薄弱 需要好好补习一下
+ <br>之前也想着做黑客 但是自己基础太薄弱 错过了黄金发展时期
+ <br>现在的自己 只是对这些信息保持开放态度 而不必去深究
+ <br>电脑是怎么连接互联网的？ HTML.CSS.JS之间保持着怎样一种密切的联系？ 在这段时间里 对一些基本的概念知识有了一定的了解
+ <br>希望自己能继续加油 不局限于课堂上所讲的一些知识 做一个通才
+ <br>写代码是无聊的事吗？但是无聊之中肯定也有属于自己的乐趣
+ </body>
+</html>
