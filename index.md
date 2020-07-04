@@ -1,10 +1,7 @@
 <html>
  <head>
-  <title>又是一年考核季 学分绩点断舍离</title>
+又是一年考核季 学分绩点断舍离
   <background="bg/1.png">
-  h1 {
-  font-color:red
-  }
  </head>
  <body>
  <h1>这是我的第一个网站？？</h1>
